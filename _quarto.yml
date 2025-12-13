@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "___ Undergraduate Forestry Data Science Portfolio"
+  favicon: images/placeholder.png
+  navbar:
+    logo: images/placeholder.png
+    left:
+      - icon: github
+      #  href: #https://github.com/yourusername
+      #- icon: #twitter
+      #  href: #https://twitter.com/yourusername
+  
+  sidebar:
+    style: "floating"  # or "docked"
+    logo: images/placeholder.png
+    tools:
+      - icon: github
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home
+      - previousProjects.qmd
+      - collaboration.qmd
+      - alum.qmd
+      - projectSubmission.qmd
+
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    toc-depth: 3  # How many heading levels to show (default is 3)
+    toc-expand: true
+    page-layout: article

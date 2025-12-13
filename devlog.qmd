@@ -1,0 +1,246 @@
+---
+title: "Devlog"
+---
+
+# Devlog:
+
+## Color Palette:
+
+```{r}
+palette <- c("#95B46A", "#2C8C99", "#26408B", "#563F1B", "#243119", "#FCD757", "#BA5A31","#E06324", "#F7EFA6")
+```
+
+
+To get:
+
+-   Picture
+-   Page text
+-   icons
+-   color pallette
+-   ?
+
+
+## Sample yaml
+
+
+website:
+  title: "Your Name"
+  favicon: logo.png
+  navbar:
+    logo: logo.png
+    left:
+      - icon: github
+        href: https://github.com/yourusername
+      - icon: twitter
+        href: https://twitter.com/yourusername
+  
+  sidebar:
+    style: "floating"  # or "docked"
+    search: true
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - section: "Project Category"
+        contents:
+          - project1.qmd
+          - project2.qmd
+      - text: "About"
+        href: about.qmd
+
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: article
+
+---
+
+https://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding
+
+---
+
+|| Other yaml stuff
+
+Fontawesome: https://fontawesome.com/icons
+
+    fontawesome: true
+
+Icons: 
+# {{< fa circle-question >}} What is Quarto?
+
+# {{< fa screwdriver-wrench >}} Do I need to use Quarto to build my website?
+
+# {{< fa lightbulb >}} Some tips on navigating this document
+{{< fa circle-question >}} - question mark circle
+{{< fa lightbulb >}} - lightbulb
+{{< fa screwdriver-wrench >}} - tools/wrench
+{{< fa rocket >}} - rocket
+{{< fa book >}} - book
+{{< fa code >}} - code brackets
+{{< fa chart-line >}} - chart
+{{< fa laptop-code >}} - laptop with code
+
+
+---
+
+### Collapsible things
+
+:::{.callout-note collapse="true"}
+## Note (collapsed by default to minimize scrolling; click to expand)
+
+Your content here...
+:::
+
+:::{.callout-tip collapse="true"}
+## Tip (collapsed by default to minimize scrolling; click to expand)
+
+Your content here...
+:::
+
+
+:::{.callout-important}
+## Important
+
+This is **important text** - be sure to read these carefully!
+:::
+
+
+:::{.callout-note collapse="true" appearance="default"}
+## Note (collapsed by default to minimize scrolling; click to expand)
+
+Your content here...
+:::
+
+
+:::{.callout-note collapse="true" appearance="simple"}
+## Note (collapsed by default to minimize scrolling; click to expand)
+
+Your content here...
+:::
+
+:::{.callout-note collapse="true" appearance="minimal"}
+## Note (collapsed by default to minimize scrolling; click to expand)
+
+Your content here...
+:::
+
+---
+
+Tabset Stuff: 
+
+::: {.panel-tabset}
+
+## Tab 1 Title
+
+Content for the first tab goes here.
+
+## Tab 2 Title
+
+Content for the second tab goes here.
+
+## Tab 3 Title
+
+Content for the third tab goes here.
+
+:::
+
+## Awesome Quarto:
+
+https://github.com/mcanouil/awesome-quarto
+
+## Openscapes
+
+https://openscapes.org/
+
+---
+
+## Columns
+
+::: {.grid}
+
+::: {.g-col-4}
+![](path/to/icon.png){width=50px}
+
+### COlumn 1
+
+**Lorem Ipsum** I don't remember the rest
+:::
+
+::: {.g-col-4}
+![](path/to/icon.png){width=50px}
+
+### Column 2
+
+**Lorem Ipsum.** I don't want to look them up
+:::
+
+::: {.g-col-4}
+![](path/to/icon.png){width=50px}
+
+### Column 3
+
+**Lorem Ipsum** What if I memorized them
+:::
+
+:::
+
+
+## Bordered Boxes
+
+::: {.grid}
+
+::: {.g-col-4}
+::: {.card}
+## 151
+
+**Box 1** Lorem
+:::
+:::
+
+::: {.g-col-4}
+::: {.card}
+## 80
+
+**Box 2** Ipsum
+:::
+:::
+
+::: {.g-col-4}
+::: {.card}
+## 22
+
+**Box 3** I think the next word is dolor?
+:::
+:::
+
+:::
+
+## Sections & CSS
+
+In QMD: 
+
+::: {.section-name1}
+# Heading
+
+What ever I wanna put in here (even columns and boxes)
+:::
+
+::: {.section-name2}
+# Heading
+
+What ever I wanna put in here (even columns and boxes)
+:::
+
+## Sections colors (css) [in `styles.css` file]
+
+.white-section {
+  background-color: #ffffff;
+  padding: 3rem 0;
+}
+
+.grey-section {
+  background-color: #f5f5f5;  /* light grey */
+  padding: 3rem 0;
+}

@@ -1,0 +1,12 @@
+
+.alumni-banner {
+  background: linear-gradient(to bottom, #ffd699 0%, #ff9900 100%);
+  padding: 3rem 2rem;
+  margin-bottom: 3rem;
+}
+
+.alumni-banner h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
