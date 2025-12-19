@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "___ Undergraduate Forestry Data Science Portfolio"
+  title: "Undergraduate Forestry Data Science"
   favicon: images/placeholder.png
   navbar:
     logo: images/placeholder.png
@@ -12,29 +12,28 @@ website:
       #  href: #https://github.com/yourusername
       #- icon: #twitter
       #  href: #https://twitter.com/yourusername
-  
-  sidebar:
-    style: "floating"  # or "docked"
-    logo: images/placeholder.png
-    tools:
-      - icon: github
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Showcase Projects"
+        href: previousProjects.qmd
+      - text: "Application Information"
+        href: application.qmd
     search: true
-    contents:
-      - href: index.qmd
-        text: Home
-      - previousProjects.qmd
-      - collaboration.qmd
-      - alum.qmd
-      - projectSubmission.qmd
 
 format:
   html:
     toc: true
     toc-location: right
     toc-title: "On this page"
-    toc-depth: 3  # How many heading levels to show (default is 3)
+    toc-depth: 3  
+    css: styles.css
     toc-expand: true
-    page-layout: article
-    
+    page-layout: custom
+    title-block-banner: false
+
+
 resources: 
   - CNAME

@@ -1,14 +1,19 @@
 ---
-title: "UFDS Program People"
+title: "People"
+title-block-banner: false
+about: 
+  template: marquee
+  image-shape: rectangle
 ---
 
-------------------------------------------------------------------------
-
-:::{.alumni-banner}
-
-# Our People
-
+::: {.fixed-left-column}
+![](images/placeholder.png)
 :::
+
+::: {.right-column-content}
+# People
+
+
 
 ::: {.text-center}
 
@@ -212,9 +217,10 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 :::
 :::
 
-
+## FIA Collaborators
 
 ## Mentors
 
 
-## FIA Collaborators
+
+:::
