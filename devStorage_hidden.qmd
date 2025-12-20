@@ -2,7 +2,20 @@
 title: "Devlog"
 ---
 
-# Devlog:
+# To-Do:
+
+- Fix/clean up css
+- Improve grid system/custom layout
+- Develop landing page layout vs other page layouts
+- Fix TOC display
+- Better implement scss
+- Develop site theme
+- Icons?
+- Buttons?
+
+
+
+
 
 ## Color Palette:
 
@@ -10,50 +23,6 @@ title: "Devlog"
 palette <- c("#95B46A", "#2C8C99", "#26408B", "#563F1B", "#243119", "#FCD757", "#BA5A31","#E06324", "#F7EFA6")
 ```
 
-
-To get:
-
--   Picture
--   Page text
--   icons
--   color pallette
--   ?
-
-
-## Sample yaml
-
-
-website:
-  title: "Your Name"
-  favicon: logo.png
-  navbar:
-    logo: logo.png
-    left:
-      - icon: github
-        href: https://github.com/yourusername
-      - icon: twitter
-        href: https://twitter.com/yourusername
-  
-  sidebar:
-    style: "floating"  # or "docked"
-    search: true
-    contents:
-      - text: "Home"
-        href: index.qmd
-      - text: "Projects"
-        href: projects.qmd
-      - section: "Project Category"
-        contents:
-          - project1.qmd
-          - project2.qmd
-      - text: "About"
-        href: about.qmd
-
-format:
-  html:
-    toc: true
-    toc-location: right
-    page-layout: article
 
 ---
 

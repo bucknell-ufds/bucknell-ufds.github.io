@@ -135,12 +135,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./previousProjects.html"> 
-<span class="menu-text">Previous Projects</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./people.html"> 
 <span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./previousProjects.html"> 
+<span class="menu-text">Showcase Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./application.html"> 
+<span class="menu-text">Application Information</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -150,7 +154,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -158,10 +162,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#devlog" id="toc-devlog" class="nav-link active" data-scroll-target="#devlog">Devlog:</a>
+  <li><a href="#to-do" id="toc-to-do" class="nav-link active" data-scroll-target="#to-do">To-Do:</a>
   <ul class="collapse">
   <li><a href="#color-palette" id="toc-color-palette" class="nav-link" data-scroll-target="#color-palette">Color Palette:</a></li>
-  <li><a href="#sample-yaml" id="toc-sample-yaml" class="nav-link" data-scroll-target="#sample-yaml">Sample yaml</a></li>
   </ul></li>
   <li><a href="#do-i-need-to-use-quarto-to-build-my-website" id="toc-do-i-need-to-use-quarto-to-build-my-website" class="nav-link" data-scroll-target="#do-i-need-to-use-quarto-to-build-my-website">{{&lt; fa screwdriver-wrench &gt;}} Do I need to use Quarto to build my website?</a></li>
   <li><a href="#some-tips-on-navigating-this-document" id="toc-some-tips-on-navigating-this-document" class="nav-link" data-scroll-target="#some-tips-on-navigating-this-document">{{&lt; fa lightbulb &gt;}} Some tips on navigating this document</a>
@@ -180,7 +183,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -189,7 +192,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -201,27 +204,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="devlog" class="level1">
-<h1>Devlog:</h1>
+<section id="to-do" class="level1">
+<h1>To-Do:</h1>
+<ul>
+<li>Fix/clean up css</li>
+<li>Improve grid system/custom layout</li>
+<li>Develop landing page layout vs other page layouts</li>
+<li>Fix TOC display</li>
+<li>Better implement scss</li>
+<li>Develop site theme</li>
+<li>Icons?</li>
+<li>Buttons?</li>
+</ul>
 <section id="color-palette" class="level2">
 <h2 class="anchored" data-anchor-id="color-palette">Color Palette:</h2>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>palette <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"#95B46A"</span>, <span class="st">"#2C8C99"</span>, <span class="st">"#26408B"</span>, <span class="st">"#563F1B"</span>, <span class="st">"#243119"</span>, <span class="st">"#FCD757"</span>, <span class="st">"#BA5A31"</span>,<span class="st">"#E06324"</span>, <span class="st">"#F7EFA6"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>To get:</p>
-<ul>
-<li>Picture</li>
-<li>Page text</li>
-<li>icons</li>
-<li>color pallette</li>
-<li>?</li>
-</ul>
-</section>
-<section id="sample-yaml" class="level2">
-<h2 class="anchored" data-anchor-id="sample-yaml">Sample yaml</h2>
-<p>website: title: “Your Name” favicon: logo.png navbar: logo: logo.png left: - icon: github href: https://github.com/yourusername - icon: twitter href: https://twitter.com/yourusername</p>
-<p>sidebar: style: “floating” # or “docked” search: true contents: - text: “Home” href: index.qmd - text: “Projects” href: projects.qmd - section: “Project Category” contents: - project1.qmd - project2.qmd - text: “About” href: about.qmd</p>
-<p>format: html: toc: true toc-location: right page-layout: article</p>
 <hr>
 <p>https://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding</p>
 <hr>

@@ -1,17 +1,9 @@
 ---
 title: "Home"
-title-block-banner: false
-about: 
-  template: marquee
-  image-shape: rectangle
+title-block-style: none
 ---
 
-::: {.fixed-left-column}
-![](images/placeholder.png)
-:::
 
-::: {.right-column-content}
 # Applicaton Info
 
-
-:::
+Coming Soon!

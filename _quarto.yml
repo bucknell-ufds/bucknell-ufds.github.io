@@ -25,15 +25,15 @@ website:
 
 format:
   html:
+    page-layout: full
+    css: styles.css
     toc: true
     toc-location: right
     toc-title: "On this page"
-    toc-depth: 3  
-    css: styles.css
+    
+    toc-collapse: true
+    toc-depth: 3
     toc-expand: true
-    page-layout: custom
-    title-block-banner: false
-
 
 resources: 
   - CNAME

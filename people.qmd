@@ -1,37 +1,31 @@
 ---
 title: "People"
-title-block-banner: false
-about: 
-  template: marquee
-  image-shape: rectangle
+page-layout: full
+title-block-style: none
+toc: true
+toc-location: right
+toc-collapse: true
 ---
 
-::: {.fixed-left-column}
-![](images/placeholder.png)
-:::
-
-::: {.right-column-content}
 # People
 
 
+[Something about UFDS People]
 
-::: {.text-center}
-
-## [Something about UFDS People]
-
-:::
 
 ## Student Research Groups
 
-::: {.grid .research-group}
 
-### Bucknell Summer 2025  
+### Bucknell Summer 2025
+
+::: {.grid .research-group}
 
 ::: {.g-col-4}
 ![](images/UFDS2025.jpg){}
 :::
 
 ::: {.g-col-8}
+**Student Researchers**
 
 **[Calvin Bailey](https://www.linkedin.com/in/calvin-bailey-85b62a255/)** - Student Researcher: Data Analytics (Class 2025), Denison University  
 - Additional work Fall 2025  
@@ -47,6 +41,11 @@ Researcher: Statistics (Class 2027), Bucknell University
 **[Jean Marie Ngabonziza](https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza-661899224/)** - Student Researcher: Computer Science & Engineering (Class 2026), Bucknell University   
 **[Fayrene Nguyen](https://www.linkedin.com/in/phuong-fayrene-nguyen/)** - Student 
 Researcher: Business Analytics (Class 2027), Bucknell University   
+
+**FIA Collaborators:**  George Gaines, Tracey Frescino, Andy Lister, and Alex Young  
+
+**Project Mentors:**  
+Grayson White and Kelly McConville  
 **[Rebecca Beneroff](https://www.linkedin.com/in/rebecca-beneroff/)** - Research Mentor: Biology BA (Class 2025), Biology MA (Class 2027), Bucknell University   
 - Additional work Fall 2025  
 
@@ -55,16 +54,21 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 
 ---
 
+### Harvard Summer 2023 
+
 ::: {.grid .research-group}
 
-### Harvard Summer 2023  
-
 ::: {.g-col-8}
+**Student Researchers**
 
 **[Dinan Elsyad](https://www.linkedin.com/in/dinan-elsyad-a15264248/)** - Student Researcher: Statistics (Class 2025), Harvard University  
 **[Lal Kablan](https://www.linkedin.com/in/lalkablan/)** - Student Researcher: Psychology, Economics (Class 2025), Harvard University   
 **[Niels Korsgaard](https://www.linkedin.com/in/niels-korsgaard-328684169/)** - Student Researcher: Statistics (Class 2025), Harvard University   
 **[Thor Reimann](https://www.linkedin.com/in/thorreimann/)** - Student Researcher: Religion, Environmental Science, and Public Policy (Class 2025), Harvard University   
+
+**FIA Collaborators:**  George Gaines, Tracey Frescino, Brett Butler, Jesse Caputo, Sara Goeking    
+
+**Project Mentors:**  Grayson White, Kelly McConville, Kate Hu
 
 :::
 
@@ -75,63 +79,79 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 
 ---
 
-::: {.grid .research-group}
+### Harvard Summer 2022  
 
-### Summer 2022  
+::: {.grid .research-group}
 
 ::: {.g-col-4}
 ![](images/UFDS2022.png){}
 :::
 
 ::: {.g-col-8}
+**Student Researchers**
 
+**[Joshua Yamamoto](https://www.linkedin.com/in/joshua-yamamoto-1b75611ab/)** - Student Researcher and Mentor: Mathematics (Class 2023), Harvard University  
 **[Julian Schmitt](https://julians42.github.io/)** - Student Researcher: Applied Mathematics (Class 2023), Harvard University  
 **[Jing Shang](https://jshang21.github.io/)** - Student Researcher: Economics (Class 2023), Harvard University  
 **[Asteria Chilambo](https://www.cmu.edu/dietrich/statistics-datascience/research/members/asteria-chilambo.html)** - Student Researcher: Mathematics (Class 2023), Harvard University  
-**[Maxwell VanLandschoot](https://www.linkedin.com/in/mjdvl/)** - Student Researcher: Economics (Class 2022), Reed College
+**[Maxwell VanLandschoot](https://www.linkedin.com/in/mjdvl/)** - Student Researcher: Economics (Class 2022), Reed College   
+
+**FIA Collaborators:**  George Gaines, Tracey Frescino, Sara Goeking, Chris Woodall, Lara Murray, Ray Czaplewsk, Gretchen Moisen   
+
+**Project Mentors:**  
+- Kelly McConville, Grayson White, Kate Hu, Holly Munro, Steve Prisley    
 
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
+### Reed Summer 2021
 
-### Summer 2021  
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
 **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** - Student Researcher: Mathematics, Economics (Class 2021), Reed College  
 - Also Participated Summer 2020  
-**[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** - Student Researcher: Mathematics, Economics (Class 2017), Reed College 
+**[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** - Student Researcher: Mathematics, Economics (Class 2017), Reed College  
+**[Grayson White](https://graysonwhite.com/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2021), Reed College  
+
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors:** Kelly McConville  
 
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
+### Reed Summer 2020 
 
-### Summer 2020  
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
-**Olek Wojcik** 
+**Olek Wojcik**  
 **Maddie Basil** - Student Researcher: English (Class 2021), Swarthmore College  
 - Also Participated Summer 2019  
 **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** - Student Researcher: Mathematics with Emphasis in Statistics (Class 2021), Swarthmore College  
 - Also Participated Summer 2019  
 **[Isabelle Caldwell](https://www.linkedin.com/in/isabelle-caldwell-4abb98199/)** - Student Researcher: Economics (Class 2023), Reed College  
-**[Shulav Neupane](https://www.linkedin.com/in/shulavneupane/)** - Student Researcher: Economics (Class 2020), Reed College
+**[Shulav Neupane](https://www.linkedin.com/in/shulavneupane/)** - Student Researcher: Economics (Class 2020), Reed College  
+
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen, Chris Toney  
+
+**Project Mentors:** Kelly McConville  
 
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
+### Reed Summer 2019
 
-### Reed Summer 2019  
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
@@ -142,6 +162,10 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 **[Salma Huque](https://www.linkedin.com/in/salma-huque-64588391/)** - Student Researcher: Economics (Class 2020), Reed College  
 **[Miranda Rintoul](https://www.linkedin.com/in/mirandarintoul/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2019), Reed College  
 
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen, Chris Toney  
+
+**Project Mentors:** Kelly McConville  
+
 :::
 
 ::: {.g-col-4}
@@ -151,9 +175,9 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 
 ---
 
-::: {.grid .research-group}
+### Swarthmore Spring 2018 
 
-### Swarthmore Spring 2018  
+::: {.grid .research-group}
 
 ::: {.g-col-4}
 ![](images/UFDS2018.jpg){}
@@ -169,14 +193,18 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** - Student Researcher: Mathematics, Computer Science (Class 2019), Swarthmore College  
 -  Also participated Fall 2017
 
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors:** Kelly McConville 
+
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
+### Swarthmore Fall 2017
 
-### Swarthmore Fall 2017  
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
@@ -187,40 +215,84 @@ Researcher: Business Analytics (Class 2027), Bucknell University
 **[Sida (Mick) Li](https://www.linkedin.com/in/mick-sida-li-b057417a/)** - Student Researcher: Mathematics, Philosophy (Class 2018), Swarthmore College  
 **[Jacob Gichan](https://www.linkedin.com/in/jacob-g-8660514a/)** - Student Researcher: Mathematics, Classical Studies (Class 2018), Swarthmore College
 
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors:** Kelly McConville  
+
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
+### Swarthmore Spring 2016 
 
-### Swarthmore Spring 2016  
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
 **[Becky Tang](https://beckytang.rbind.io/)** - Student Researcher: Computer Science, Mathematics, Computer Science (Class 2018), Swarthmore College  
 **[George Zhu](https://www.linkedin.com/in/george-x-zhu/)** - Student Researcher: Mathematics, Philosophy (Class 2017), Swarthmore College 
 
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors:** Kelly McConville * 
+
 :::
 :::
 
 ---
 
-::: {.grid .research-group}
-
 ### Whitman Fall 2013 & Spring 2014
+
+::: {.grid .research-group}
 
 ::: {.g-col-8}
 
 **[Cooper Schumacher](https://www.linkedin.com/in/cooperschumacher/)** - Student Researcher: Mathematics (Class 2014), Whitman College  
 
-:::
-:::
+**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
 
-## FIA Collaborators
-
-## Mentors
-
-
+**Project Mentors:** Kelly McConville  
 
 :::
+:::
+
+## FIA Collaborators  
+
+**[George Gaimes](https://www.linkedin.com/in/george-gaines-7b34a711b/)** - Research Mathematical Statistician, FIA  
+- Summer 2022 - Summer 2025  
+**Tracey Frescino**  
+- Fall 2013 - 2025    
+**[Andy Lister](https://www.linkedin.com/in/andrew-lister-9b64a36/)** - Research Forester, FIA   
+- Summer 2025  
+**[Brett Butler](https://www.linkedin.com/in/bbutler01/)** - Research Forester, FIA  
+- Summer 2023  
+**[Jesse Caputo](https://www.linkedin.com/in/jesse-caputo-600129b/)** - Research Forester, FIA    
+- Summer 2023  
+**[Sara Goeking](https://www.linkedin.com/in/sara-goeking-967712aa/)** - FIA National Program Manager, FIA    
+- Summer 2022 and 2023   
+**[Chris Woodall](https://www.linkedin.com/in/chwoodall/)** - Director U.S. Forest Science and Policy, ctree    
+- Summer 2022  
+**[Lara Murray](https://www.linkedin.com/in/lara-thelle-murray/)** - Principal Owner, Seris Forest Analytics    
+- Summer 2022  
+**[Ray Czaplewski](https://www.linkedin.com/in/rayczaplewski/)** - Retired FIA Scientist    
+- Summer 2022  
+**[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** - Retired FIA Research Forester, Skier, Foiling Surfer   
+- Fall 2013 - 2022  
+**[Chris Toney](https://github.com/ctoney)** - Biological Scientist, FIA      
+- Summer 2019 - 2020   
+
+## Mentors  
+
+**[Grayson White](https://www.linkedin.com/in/andrew-lister-9b64a36/)** - Research Forester, FIA
+- Co-Director
+- 2021 - Present
+**[Kate Hu](http://www.katehu.com/)** - Assistant Professor of Statistics, Ohio State University    
+- Summer 2022 and 2023  
+**[Holly	Munro](https://www.linkedin.com/in/holly-munro-747400149/)** - Senior Research Scientist, NCASI    
+- Summer 2022  
+**[Steve	Prisley](https://www.linkedin.com/in/steve-prisley-8a769a13/)** - Consultant, Formerly Principal Research Scientist, NCASI  
+- Summer 2022  
+
+
+
