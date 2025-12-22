@@ -4,9 +4,9 @@ project:
   
 website:
   title: "Undergraduate Forestry Data Science"
-  favicon: images/placeholder.png
+  favicon: images/UFDS_hex.png
   navbar:
-    logo: images/placeholder.png
+    logo: images/UFDS_hex.png
     left:
       - icon: github
       #  href: #https://github.com/yourusername
@@ -17,11 +17,15 @@ website:
         href: index.qmd
       - text: "People"
         href: people.qmd
-      - text: "Showcase Projects"
-        href: previousProjects.qmd
-      - text: "Application Information"
+      # - text: "Showcase Projects"
+      #   href: previousProjects.qmd
+      - text: "Apply Here!"
         href: application.qmd
     search: true
+    
+  sidebar:
+    style: "floating"  # or "docked"
+    logo: images/UFDS_hex.png
 
 format:
   html:

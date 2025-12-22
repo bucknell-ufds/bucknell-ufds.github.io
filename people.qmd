@@ -2,16 +2,10 @@
 title: "People"
 page-layout: full
 title-block-style: none
-toc: true
-toc-location: right
-toc-collapse: true
+toc: false
 ---
 
-# People
-
-
-[Something about UFDS People]
-
+The success of UFDS comes from the amazing people involved — helpful project mentors and dedicated student fellows. Gretchen Moisen, who spent a 40 year career at FIA, helped create UFDS with Kelly and served as a project mentor for the first decade. Gretchen also coined the name! By the numbers, UFDS has involved 37 student fellows, 10 FIA collaborators, and 6 additional research mentors.
 
 ## Student Research Groups
 

@@ -1,9 +1,33 @@
 ---
-title: "Home"
+title: "Apply Here!"
 title-block-style: none
+toc: false
 ---
 
+For the summer 2026, the plan is to have two Reed students and two Bucknell students collaborating with the co-directors and FIA stakeholders. Research will occur on Reed's campus in beautiful Portland, OR from June 1 - August 7, with the final week of research remote-eligible. Students will be paid $6,600 for full-time work, which is subject to both income tax and FICA tax withholding. All majors are encouraged to apply, and this oppurtunity is available to all undergraduate students at Bucknell and Reed who are not graduating seniors. 
 
-# Applicaton Info
+## Application
 
-Coming Soon!
+Bucknell students should [apply here](https://forms.gle/LTi7gDWj226wUUeJA). The Bucknell application is due on **February 13th, 2026**. Send any questions about the Bucknell application to Kelly McConville (k.mcconville\@bucknell.edu)
+
+Reed students should [apply here](https://forms.gle/152iMzg18uuXHhc7A). The Reed application is due on **February 6th, 2026**. Send any questions about the Reed application to Grayson White (gwhite\@reed.edu)
+
+## Potential Projects
+
+Over the ten week period, students will work on approximately two projects in groups of 1-3. The overarching theme of the projects will be the development, evaluation, and distribution of statistical methods and tools for improving estimation of forest attributes. However, individual projects will vary from exploratory analyses to methodology comparisons to software and dashboard development. A few potential projects are listed below:
+
+-   In recent years, FIA has experienced greater need for estimates of forest parameters over smaller geographic regions. For example, the Forest Service manages wild fires and tries to estimate the impact of these fires on important forest attributes. This area of research is called **small area estimation**. This project will explore the utility of several different estimators for estimating forest attributes over small areas.
+
+
+-   **Bayesian statistics** is a field of statistics we have discussed but not engaged in this semester. The Forest Service is interested in using Bayesian statistics and models to operationalize **small area estimation**, but they need guidance on the mechanics of fitting these models. This project will first learn about, and then write a tutorial on, operationalizing Bayesian small area estimation for the forest service and in forest inventory settings more generally. 
+
+
+-   **Simulation studies** are crucial for understanding the properties of model-based estimators. And recently, the Forest Service has been interested in **assessing estimators that account for change** in the forest (from, e.g., a forest fire or clearcut). In this project, students will adapt the [KBAABB methodology](https://academic.oup.com/forestry/advance-article/doi/10.1093/forestry/cpaf071/8341163) to help assess estimators that estimate change.
+
+
+
+
+
+
+
+
