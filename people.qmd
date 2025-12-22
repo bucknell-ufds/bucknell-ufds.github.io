@@ -282,6 +282,8 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 ::: {.g-col-8}
 
+**Student Researchers**
+
 - **[Becky Tang](https://beckytang.rbind.io/)** (Computer Science, Mathematics '18, Swarthmore College)
 
 - **[George Zhu](https://www.linkedin.com/in/george-x-zhu/)** (Mathematics, Philosophy '17, Swarthmore College)
@@ -306,6 +308,8 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.grid .research-group}
 
 ::: {.g-col-8}
+
+**Student Researchers**
 
 - **[Cooper Schumacher](https://www.linkedin.com/in/cooperschumacher/)** (Mathematics '14, Whitman College) 
 
