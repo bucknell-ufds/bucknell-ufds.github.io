@@ -5,7 +5,7 @@ title-block-style: none
 toc: false
 ---
 
-The success of UFDS comes from the amazing people involved — helpful project mentors and dedicated student fellows. Gretchen Moisen, who spent a 40 year career at FIA, helped create UFDS with Kelly and served as a project mentor for the first decade. Gretchen also coined the name! By the numbers, UFDS has involved 37 student fellows, 10 FIA collaborators, and 6 additional research mentors.
+The success of UFDS comes from the amazing people involved — helpful project mentors and dedicated student fellows. Gretchen Moisen, who spent a 40 year career at FIA, helped create UFDS with Kelly and served as a project mentor for the first decade. Gretchen also coined the name! By the numbers, UFDS has involved 37 student fellows, 10 FIA collaborators, and 6 additional research mentors. Nowadays, the UFDS program occurs most summers and is co-directed by George Gaines, Kelly McConville, and Grayson White.
 
 ## Student Research Groups
 
@@ -21,27 +21,29 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.g-col-8}
 **Student Researchers**
 
-**[Calvin Bailey](https://www.linkedin.com/in/calvin-bailey-85b62a255/)** - Student Researcher: Data Analytics (Class 2025), Denison University  
-- Additional work Fall 2025  
-**[Austin Carroll](https://www.linkedin.com/in/austin-carroll-30644430a/)** - Student 
-Researcher: Statistics (Class 2026), Bucknell University  
-**[Celine Chang](https://www.linkedin.com/in/celine-chang6/)** - Student 
-Researcher: Applied Mathematics (Class 2027), Bucknell University  
-- Additional work Fall 2025  
-**[Odilon Ligan](https://www.linkedin.com/in/odilon-ligan-0045a8325/)** - Student 
-Researcher: Computer Science & Engineering (Class 2027), Bucknell University   
-**[Will Lindquist](https://wcl04.github.io/Will-Lindquist/)** - Student 
-Researcher: Statistics (Class 2027), Bucknell University   
-**[Jean Marie Ngabonziza](https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza-661899224/)** - Student Researcher: Computer Science & Engineering (Class 2026), Bucknell University   
-**[Fayrene Nguyen](https://www.linkedin.com/in/phuong-fayrene-nguyen/)** - Student 
-Researcher: Business Analytics (Class 2027), Bucknell University   
+- **[Calvin Bailey](https://www.linkedin.com/in/calvin-bailey-85b62a255/)** (Data Analytics '25, Denison University)
 
-**FIA Collaborators:**  George Gaines, Tracey Frescino, Andy Lister, and Alex Young  
+- **[Austin Carroll](https://www.linkedin.com/in/austin-carroll-30644430a/)** (Statistics '26, Bucknell University)
+
+- **[Celine Chang](https://www.linkedin.com/in/celine-chang6/)** (Applied Mathematics '27, Bucknell University)
+
+- **[Odilon Ligan](https://www.linkedin.com/in/odilon-ligan-0045a8325/)** (Computer Science & Engineering '27, Bucknell University)
+
+- **[Will Lindquist](https://wcl04.github.io/Will-Lindquist/)** (Statistics '27, Bucknell University) 
+
+- **[Jean Marie Ngabonziza](https://www.linkedin.com/in/jean-marie-nisingizwe-ngabonziza-661899224/)** (Computer Science & Engineering '26, Bucknell University)
+
+- **[Fayrene Nguyen](https://www.linkedin.com/in/phuong-fayrene-nguyen/)** (Business Analytics '27, Bucknell University)
+
+**FIA Collaborators**  
+
+- George Gaines, Tracey Frescino, Andy Lister, and Alex Young  
 
 **Project Mentors:**  
-Grayson White and Kelly McConville  
-**[Rebecca Beneroff](https://www.linkedin.com/in/rebecca-beneroff/)** - Research Mentor: Biology BA (Class 2025), Biology MA (Class 2027), Bucknell University   
-- Additional work Fall 2025  
+
+- Grayson White and Kelly McConville  
+
+- **[Rebecca Beneroff](https://www.linkedin.com/in/rebecca-beneroff/)** (Biology BA '25, Biology MA '27, Bucknell University)
 
 :::
 :::
@@ -55,19 +57,26 @@ Grayson White and Kelly McConville
 ::: {.g-col-8}
 **Student Researchers**
 
-**[Dinan Elsyad](https://www.linkedin.com/in/dinan-elsyad-a15264248/)** - Student Researcher: Statistics (Class 2025), Harvard University  
-**[Lal Kablan](https://www.linkedin.com/in/lalkablan/)** - Student Researcher: Psychology, Economics (Class 2025), Harvard University   
-**[Niels Korsgaard](https://www.linkedin.com/in/niels-korsgaard-328684169/)** - Student Researcher: Statistics (Class 2025), Harvard University   
-**[Thor Reimann](https://www.linkedin.com/in/thorreimann/)** - Student Researcher: Religion, Environmental Science, and Public Policy (Class 2025), Harvard University   
+- **[Dinan Elsyad](https://www.linkedin.com/in/dinan-elsyad-a15264248/)** (Statistics '25, Harvard University)  
 
-**FIA Collaborators:**  George Gaines, Tracey Frescino, Brett Butler, Jesse Caputo, Sara Goeking    
+- **[Lal Kablan](https://www.linkedin.com/in/lalkablan/)** (Psychology and Economics '25, Harvard University)  
 
-**Project Mentors:**  Grayson White, Kelly McConville, Kate Hu
+- **[Niels Korsgaard](https://www.linkedin.com/in/niels-korsgaard-328684169/)** (Statistics '25, Harvard University)
+
+- **[Thor Reimann](https://www.linkedin.com/in/thorreimann/)** (Religion, Environmental Science, and Public Policy '25, Harvard University)
+
+**FIA Collaborators**  
+
+- George Gaines, Tracey Frescino, Brett Butler, Jesse Caputo, Sara Goeking    
+
+**Project Mentors**  
+
+- Grayson White, Kelly McConville, Kate Hu
 
 :::
 
 ::: {.g-col-4}
-![](images/UFDS2023.jpg){}
+![](images/ufds2023-2.png){}
 :::
 :::
 
@@ -78,21 +87,28 @@ Grayson White and Kelly McConville
 ::: {.grid .research-group}
 
 ::: {.g-col-4}
-![](images/UFDS2022.png){}
+![](images/Forest_and_IceCream_Lovers.jpg)
 :::
 
 ::: {.g-col-8}
 **Student Researchers**
 
-**[Joshua Yamamoto](https://www.linkedin.com/in/joshua-yamamoto-1b75611ab/)** - Student Researcher and Mentor: Mathematics (Class 2023), Harvard University  
-**[Julian Schmitt](https://julians42.github.io/)** - Student Researcher: Applied Mathematics (Class 2023), Harvard University  
-**[Jing Shang](https://jshang21.github.io/)** - Student Researcher: Economics (Class 2023), Harvard University  
-**[Asteria Chilambo](https://www.cmu.edu/dietrich/statistics-datascience/research/members/asteria-chilambo.html)** - Student Researcher: Mathematics (Class 2023), Harvard University  
-**[Maxwell VanLandschoot](https://www.linkedin.com/in/mjdvl/)** - Student Researcher: Economics (Class 2022), Reed College   
+- **[Joshua Yamamoto](https://www.linkedin.com/in/joshua-yamamoto-1b75611ab/)** (Mathematics with a Concentration in Statistics '23, Reed College)
 
-**FIA Collaborators:**  George Gaines, Tracey Frescino, Sara Goeking, Chris Woodall, Lara Murray, Ray Czaplewsk, Gretchen Moisen   
+- **[Julian Schmitt](https://julians42.github.io/)** (Applied Mathematics '23, Harvard University)
 
-**Project Mentors:**  
+- **[Jing Shang](https://jshang21.github.io/)** (Economics '23, Fudan University)
+
+- **[Asteria Chilambo](https://www.cmu.edu/dietrich/statistics-datascience/research/members/asteria-chilambo.html)** (Mathematics '23, Harvard University)
+
+- **[Maxwell VanLandschoot](https://www.linkedin.com/in/mjdvl/)** (Economics '22, Reed College)   
+
+**FIA Collaborators**  
+
+- George Gaines, Tracey Frescino, Sara Goeking, Chris Woodall, Lara Murray, Ray Czaplewsk, Gretchen Moisen   
+
+**Project Mentors**  
+
 - Kelly McConville, Grayson White, Kate Hu, Holly Munro, Steve Prisley    
 
 :::
@@ -105,15 +121,21 @@ Grayson White and Kelly McConville
 ::: {.grid .research-group}
 
 ::: {.g-col-8}
+**Student Researchers**
 
-**[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** - Student Researcher: Mathematics, Economics (Class 2021), Reed College  
-- Also Participated Summer 2020  
-**[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** - Student Researcher: Mathematics, Economics (Class 2017), Reed College  
-**[Grayson White](https://graysonwhite.com/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2021), Reed College  
+- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
+ 
+- **[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** (Mathematics-Economics '17, Reed College)
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+- **[Grayson White](https://graysonwhite.com/)** (Mathematics with a Concentration in Statistics '21, Reed College)  
 
-**Project Mentors:** Kelly McConville  
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors** 
+
+- Kelly McConville  
 
 :::
 :::
@@ -124,19 +146,30 @@ Grayson White and Kelly McConville
 
 ::: {.grid .research-group}
 
+::: {.g-col-4}
+![](images/ufds_2020.png)
+:::
+
 ::: {.g-col-8}
+**Student Researchers**
 
-**Olek Wojcik**  
-**Maddie Basil** - Student Researcher: English (Class 2021), Swarthmore College  
-- Also Participated Summer 2019  
-**[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** - Student Researcher: Mathematics with Emphasis in Statistics (Class 2021), Swarthmore College  
-- Also Participated Summer 2019  
-**[Isabelle Caldwell](https://www.linkedin.com/in/isabelle-caldwell-4abb98199/)** - Student Researcher: Economics (Class 2023), Reed College  
-**[Shulav Neupane](https://www.linkedin.com/in/shulavneupane/)** - Student Researcher: Economics (Class 2020), Reed College  
+- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen, Chris Toney  
+- **Maddie Basil** (English '21, Swarthmore College)
 
-**Project Mentors:** Kelly McConville  
+- **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** (Mathematics with Emphasis in Statistics '21, Swarthmore College)
+
+- **[Isabelle Caldwell](https://www.linkedin.com/in/isabelle-caldwell-4abb98199/)** (Economics '23, Reed College)
+
+- **[Shulav Neupane](https://www.linkedin.com/in/shulavneupane/)** (Economics '20, Reed College)
+
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen, Chris Toney  
+
+**Project Mentors** 
+
+- Kelly McConville  
 
 :::
 :::
@@ -148,17 +181,27 @@ Grayson White and Kelly McConville
 ::: {.grid .research-group}
 
 ::: {.g-col-8}
+**Student Researchers**
 
-**Maddie Basil**  
-**Alex Flowers**  
-**[Sarah Maebius](https://www.linkedin.com/in/sarah-maebius/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2021), Reed College   
-**[Iris Griffith](https://www.linkedin.com/in/iris-griffith/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2020), Reed College  
-**[Salma Huque](https://www.linkedin.com/in/salma-huque-64588391/)** - Student Researcher: Economics (Class 2020), Reed College  
-**[Miranda Rintoul](https://www.linkedin.com/in/mirandarintoul/)** - Student Researcher: Mathematics, Concentration in Statistics (Class 2019), Reed College  
+- **Maddie Basil** (English '21, Swarthmore College)
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen, Chris Toney  
+- **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** (Mathematics with Emphasis in Statistics '21, Swarthmore College)
 
-**Project Mentors:** Kelly McConville  
+- **[Sarah Maebius](https://www.linkedin.com/in/sarah-maebius/)** (Mathematics with a Concentration in Statistics '21, Reed College)
+
+- **[Iris Griffith](https://www.linkedin.com/in/iris-griffith/)** (Mathematics with a Concentration in Statistics '20, Reed College)
+
+- **[Salma Huque](https://www.linkedin.com/in/salma-huque-64588391/)** (Economics '20, Reed College)
+
+- **[Miranda Rintoul](https://www.linkedin.com/in/mirandarintoul/)** (Mathematics with a Concentration in Statistics '19, Reed College)
+
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen, Chris Toney  
+
+**Project Mentors** 
+
+- Kelly McConville  
 
 :::
 
@@ -178,18 +221,23 @@ Grayson White and Kelly McConville
 :::
 
 ::: {.g-col-8}
+**Student Researchers**
 
-**[Pravadh Singh](https://www.linkedin.com/in/pravadh/)** - Student Researcher: Computer Science, Mathematics (Class 2018), Swarthmore College  
-**[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** - Student Researcher: Mathematics (Class 2018), Swarthmore College  
--  Also participated Fall 2017  
-**[Kevin Lai](https://www.linkedin.com/in/kevin-lai-772a60ba/)** - Student Researcher: Economics, Mathematics (Class 2018), Swarthmore College  
--  Also participated Fall 2017  
-**[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** - Student Researcher: Mathematics, Computer Science (Class 2019), Swarthmore College  
--  Also participated Fall 2017
+- **[Pravadh Singh](https://www.linkedin.com/in/pravadh/)** (Computer Science, Mathematics '18, Swarthmore College)  
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+- **[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** (Mathematics '18, Swarthmore College) 
 
-**Project Mentors:** Kelly McConville 
+- **[Kevin Lai](https://www.linkedin.com/in/kevin-lai-772a60ba/)** (Economics, Mathematics '18, Swarthmore College)  
+
+- **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** (Mathematics, Computer Science '19, Swarthmore College)  
+
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors** 
+
+- Kelly McConville 
 
 :::
 :::
@@ -200,18 +248,28 @@ Grayson White and Kelly McConville
 
 ::: {.grid .research-group}
 
-::: {.g-col-8}
+::: {.g-col-10}
 
-**Shirley Cheung**  
-**Kevin Lai**  
-**Lan Anh Ngo Quy**  
-**[Leon Chen](https://www.linkedin.com/in/leon-chen/)** - Student Researcher: Computer Science, Mathematics with Emphasis in Statistics (Class 2018), Swarthmore College  
-**[Sida (Mick) Li](https://www.linkedin.com/in/mick-sida-li-b057417a/)** - Student Researcher: Mathematics, Philosophy (Class 2018), Swarthmore College  
-**[Jacob Gichan](https://www.linkedin.com/in/jacob-g-8660514a/)** - Student Researcher: Mathematics, Classical Studies (Class 2018), Swarthmore College
+**Student Researchers**
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+- **[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** (Mathematics '18, Swarthmore College) 
 
-**Project Mentors:** Kelly McConville  
+- **[Kevin Lai](https://www.linkedin.com/in/kevin-lai-772a60ba/)** (Economics, Mathematics '18, Swarthmore College)  
+
+- **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** (Mathematics, Computer Science '19, Swarthmore College)  
+- **[Leon Chen](https://www.linkedin.com/in/leon-chen/)** (Computer Science, Mathematics with Emphasis in Statistics '18, Swarthmore College)
+
+- **[Sida (Mick) Li](https://www.linkedin.com/in/mick-sida-li-b057417a/)** (Mathematics, Philosophy '18, Swarthmore College)
+
+- **[Jacob Gichan](https://www.linkedin.com/in/jacob-g-8660514a/)** (Mathematics, Classical Studies '18, Swarthmore College)
+
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors** 
+
+- Kelly McConville  
 
 :::
 :::
@@ -224,69 +282,130 @@ Grayson White and Kelly McConville
 
 ::: {.g-col-8}
 
-**[Becky Tang](https://beckytang.rbind.io/)** - Student Researcher: Computer Science, Mathematics, Computer Science (Class 2018), Swarthmore College  
-**[George Zhu](https://www.linkedin.com/in/george-x-zhu/)** - Student Researcher: Mathematics, Philosophy (Class 2017), Swarthmore College 
+- **[Becky Tang](https://beckytang.rbind.io/)** (Computer Science, Mathematics '18, Swarthmore College)
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+- **[George Zhu](https://www.linkedin.com/in/george-x-zhu/)** (Mathematics, Philosophy '17, Swarthmore College)
 
-**Project Mentors:** Kelly McConville * 
+**FIA Collaborators** 
+
+- Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors** 
+
+- Kelly McConville 
 
 :::
 :::
 
 ---
 
+
 ### Whitman Fall 2013 & Spring 2014
+
 
 ::: {.grid .research-group}
 
 ::: {.g-col-8}
 
-**[Cooper Schumacher](https://www.linkedin.com/in/cooperschumacher/)** - Student Researcher: Mathematics (Class 2014), Whitman College  
+- **[Cooper Schumacher](https://www.linkedin.com/in/cooperschumacher/)** (Mathematics '14, Whitman College) 
 
-**FIA Collaborators:** Tracey Frescino, Gretchen Moisen  
+**FIA Collaborators** 
 
-**Project Mentors:** Kelly McConville  
+- Tracey Frescino, Gretchen Moisen  
+
+**Project Mentors** 
+
+- Kelly McConville  
 
 :::
 :::
 
-## FIA Collaborators  
+## FIA Collaborators and Other Mentors
 
-**[George Gaimes](https://www.linkedin.com/in/george-gaines-7b34a711b/)** - Research Mathematical Statistician, FIA  
-- Summer 2022 - Summer 2025  
-**Tracey Frescino**  
-- Fall 2013 - 2025    
-**[Andy Lister](https://www.linkedin.com/in/andrew-lister-9b64a36/)** - Research Forester, FIA   
-- Summer 2025  
-**[Brett Butler](https://www.linkedin.com/in/bbutler01/)** - Research Forester, FIA  
-- Summer 2023  
-**[Jesse Caputo](https://www.linkedin.com/in/jesse-caputo-600129b/)** - Research Forester, FIA    
-- Summer 2023  
-**[Sara Goeking](https://www.linkedin.com/in/sara-goeking-967712aa/)** - FIA National Program Manager, FIA    
-- Summer 2022 and 2023   
-**[Chris Woodall](https://www.linkedin.com/in/chwoodall/)** - Director U.S. Forest Science and Policy, ctree    
-- Summer 2022  
-**[Lara Murray](https://www.linkedin.com/in/lara-thelle-murray/)** - Principal Owner, Seris Forest Analytics    
-- Summer 2022  
-**[Ray Czaplewski](https://www.linkedin.com/in/rayczaplewski/)** - Retired FIA Scientist    
-- Summer 2022  
-**[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** - Retired FIA Research Forester, Skier, Foiling Surfer   
-- Fall 2013 - 2022  
-**[Chris Toney](https://github.com/ctoney)** - Biological Scientist, FIA      
-- Summer 2019 - 2020   
+- **[George Gaines](https://www.linkedin.com/in/george-gaines-7b34a711b/)** (Research Mathematical Statistician, FIA). Summer 2022 - present.
 
-## Mentors  
+- **Tracey Frescino** (Forester, FIA). Fall 2013 - present.
 
-**[Grayson White](https://www.linkedin.com/in/andrew-lister-9b64a36/)** - Research Forester, FIA
-- Co-Director
-- 2021 - Present
-**[Kate Hu](http://www.katehu.com/)** - Assistant Professor of Statistics, Ohio State University    
-- Summer 2022 and 2023  
-**[Holly	Munro](https://www.linkedin.com/in/holly-munro-747400149/)** - Senior Research Scientist, NCASI    
-- Summer 2022  
-**[Steve	Prisley](https://www.linkedin.com/in/steve-prisley-8a769a13/)** - Consultant, Formerly Principal Research Scientist, NCASI  
-- Summer 2022  
+- **[Andy Lister](https://www.linkedin.com/in/andrew-lister-9b64a36/)** (Research Forester, FIA). Summer 2025. 
+
+- **[Brett Butler](https://www.linkedin.com/in/bbutler01/)** (Research Forester, FIA). Summer 2023.
+
+- **[Jesse Caputo](https://www.linkedin.com/in/jesse-caputo-600129b/)** (Research Forester, FIA). Summer 2023. 
+
+- **[Sara Goeking](https://www.linkedin.com/in/sara-goeking-967712aa/)** (FIA National Program Manager, FIA). Summer 2022 and 2023.   
+
+- **[Kate Hu](http://www.katehu.com/)** (Assistant Professor of Statistics, Ohio State University). Summer 2022 and 2023.
+
+- **[Chris Woodall](https://www.linkedin.com/in/chwoodall/)**  (Director of U.S. Forest Science and Policy, CTrees). Summer 2022. 
+
+- **[Holly	Munro](https://www.linkedin.com/in/holly-munro-747400149/)** (Senior Research Scientist, NCASI). Summer 2022.
+
+- **[Steve	Prisley](https://www.linkedin.com/in/steve-prisley-8a769a13/)** (Consultant, Formerly Principal Research Scientist, NCASI). Summer 2022. 
+
+- **[Lara Murray](https://www.linkedin.com/in/lara-thelle-murray/)** (Principal Owner, Seris Forest Analytics). Summer 2022.
+
+- **[Ray Czaplewski](https://www.linkedin.com/in/rayczaplewski/)** (Retired FIA Scientist). Summer 2022.  
+
+- **[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** (Retired FIA Research Forester, Skier, Foiling Surfer). Fall 2013 - 2022.  
+
+- **[Chris Toney](https://github.com/ctoney)** (Biological Scientist, FIA). Summer 2019 - 2020.   
+
+
+
+## Co-directors
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+<center>
+
+![](images/square-george.jpg){width=300}
+
+[George Gaines](https://www.linkedin.com/in/george-gaines-7b34a711b/)
+
+Research Mathematical Statistician, FIA
+
+</center>
+
+
+:::
+
+::: {.column width=33%}
+
+<center>
+
+
+![](images/square-kelly.jpg){width=300}
+
+[Kelly McConville](https://mcconville.rbind.io/)
+
+Director, Dominguez Center for Data Science, Bucknell University
+
+</center>
+
+
+:::
+
+::: {.column width=33%}
+
+<center>
+
+
+![](images/square-grayson.jpg){width=300}
+
+
+[Grayson White](https://graysonwhite.com/)
+
+Visiting Assistant Professor of Statistics, Reed College
+
+</center>
+
+:::
+
+
+::::
+
 
 
 
