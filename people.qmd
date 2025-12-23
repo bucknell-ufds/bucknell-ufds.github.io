@@ -5,7 +5,7 @@ title-block-style: none
 toc: false
 ---
 
-The success of UFDS comes from the amazing people involved — helpful project mentors and dedicated student fellows. Gretchen Moisen, who spent a 40 year career at FIA, helped create UFDS with Kelly and served as a project mentor for the first decade. Gretchen also coined the name! By the numbers, UFDS has involved 37 student fellows, 10 FIA collaborators, and 6 additional research mentors. Nowadays, the UFDS program occurs most summers and is co-directed by George Gaines, Kelly McConville, and Grayson White.
+The success of UFDS comes from the amazing people involved — helpful collaborators and dedicated student researchers. Gretchen Moisen, who spent a 40 year career at FIA, helped create UFDS with Kelly and served as a project mentor for the first decade. Gretchen also coined the name! Nowadays, the UFDS program occurs most summers and is co-directed by George Gaines, Kelly McConville, and Grayson White. By the numbers, UFDS has involved 37 student fellows, 10 FIA collaborators, and 6 additional research mentors. 
 
 ## Student Research Groups
 
@@ -37,13 +37,16 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 **FIA Collaborators**  
 
-- George Gaines, Tracey Frescino, Andy Lister, and Alex Young  
+- Tracey Frescino and Andy Lister
 
 **Project Mentors:**  
 
-- Grayson White and Kelly McConville  
-
 - **[Rebecca Beneroff](https://www.linkedin.com/in/rebecca-beneroff/)** (Biology BA '25, Biology MA '27, Bucknell University)
+
+**Project Co-Directors**:
+
+
+- George Gaines, Kelly McConville, and Grayson White  
 
 :::
 :::
@@ -67,11 +70,15 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 **FIA Collaborators**  
 
-- George Gaines, Tracey Frescino, Brett Butler, Jesse Caputo, Sara Goeking    
+- Brett Butler, Jesse Caputo, Tracey Frescino, Sara Goeking    
 
-**Project Mentors**  
+**Project Mentor**  
 
-- Grayson White, Kelly McConville, Kate Hu
+- Kate Hu
+
+**Project Co-Directors**:
+
+- George Gaines, Kelly McConville, and Grayson White  
 
 :::
 
@@ -93,23 +100,27 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.g-col-8}
 **Student Researchers**
 
-- **[Joshua Yamamoto](https://www.linkedin.com/in/joshua-yamamoto-1b75611ab/)** (Mathematics with a Concentration in Statistics '23, Reed College)
+- **[Asteria Chilambo](https://www.cmu.edu/dietrich/statistics-datascience/research/members/asteria-chilambo.html)** (Mathematics '23, Harvard University)
 
 - **[Julian Schmitt](https://julians42.github.io/)** (Applied Mathematics '23, Harvard University)
 
 - **[Jing Shang](https://jshang21.github.io/)** (Economics '23, Fudan University)
 
-- **[Asteria Chilambo](https://www.cmu.edu/dietrich/statistics-datascience/research/members/asteria-chilambo.html)** (Mathematics '23, Harvard University)
-
 - **[Maxwell VanLandschoot](https://www.linkedin.com/in/mjdvl/)** (Economics '22, Reed College)   
+
+- **[Joshua Yamamoto](https://www.linkedin.com/in/joshua-yamamoto-1b75611ab/)** (Mathematics with a Concentration in Statistics '23, Reed College)
 
 **FIA Collaborators**  
 
-- George Gaines, Tracey Frescino, Sara Goeking, Chris Woodall, Lara Murray, Ray Czaplewsk, Gretchen Moisen   
+- Ray Czaplewsk, Tracey Frescino, Sara Goeking, Gretchen Moisen, Lara Murray, Chris Woodall  
 
 **Project Mentors**  
 
-- Kelly McConville, Grayson White, Kate Hu, Holly Munro, Steve Prisley    
+- Kate Hu, Holly Munro, Steve Prisley
+
+**Project Co-Directors**:
+
+- George Gaines, Kelly McConville, and Grayson White  
 
 :::
 :::
@@ -121,21 +132,23 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.grid .research-group}
 
 ::: {.g-col-8}
+
 **Student Researchers**
 
-- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
- 
 - **[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** (Mathematics-Economics '17, Reed College)
 
 - **[Grayson White](https://graysonwhite.com/)** (Mathematics with a Concentration in Statistics '21, Reed College)  
 
+- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
+
+
 **FIA Collaborators** 
 
-- Tracey Frescino, Gretchen Moisen  
+- Tracey Frescino 
 
-**Project Mentors** 
+**Project Co-Directors**:
 
-- Kelly McConville  
+- Kelly McConville and Gretchen Moisen 
 
 :::
 :::
@@ -153,23 +166,26 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.g-col-8}
 **Student Researchers**
 
-- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
-
 - **Maddie Basil** (English '21, Swarthmore College)
-
-- **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** (Mathematics with Emphasis in Statistics '21, Swarthmore College)
 
 - **[Isabelle Caldwell](https://www.linkedin.com/in/isabelle-caldwell-4abb98199/)** (Economics '23, Reed College)
 
+- **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** (Mathematics with Emphasis in Statistics '21, Swarthmore College)
+
 - **[Shulav Neupane](https://www.linkedin.com/in/shulavneupane/)** (Economics '20, Reed College)
+
+- **[Sam Olson](https://www.linkedin.com/in/samuel-d-olson/)** (Mathematics-Economics '17, Reed College)
+
+- **[Olek Wojcik](https://www.linkedin.com/in/olek-wojcik-632b91106/)** (Mathematics-Economics '21, Reed College)
+
 
 **FIA Collaborators** 
 
-- Tracey Frescino, Gretchen Moisen, Chris Toney  
+- Tracey Frescino and Chris Toney  
 
-**Project Mentors** 
+**Project Co-Directors**:
 
-- Kelly McConville  
+- Kelly McConville and Gretchen Moisen 
 
 :::
 :::
@@ -187,21 +203,21 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 - **[Alex Flowers](https://www.linkedin.com/in/alex-flowers-2a015814b/)** (Mathematics with Emphasis in Statistics '21, Swarthmore College)
 
-- **[Sarah Maebius](https://www.linkedin.com/in/sarah-maebius/)** (Mathematics with a Concentration in Statistics '21, Reed College)
-
 - **[Iris Griffith](https://www.linkedin.com/in/iris-griffith/)** (Mathematics with a Concentration in Statistics '20, Reed College)
 
 - **[Salma Huque](https://www.linkedin.com/in/salma-huque-64588391/)** (Economics '20, Reed College)
+
+- **[Sarah Maebius](https://www.linkedin.com/in/sarah-maebius/)** (Mathematics with a Concentration in Statistics '21, Reed College)
 
 - **[Miranda Rintoul](https://www.linkedin.com/in/mirandarintoul/)** (Mathematics with a Concentration in Statistics '19, Reed College)
 
 **FIA Collaborators** 
 
-- Tracey Frescino, Gretchen Moisen, Chris Toney  
+- Tracey Frescino and Chris Toney  
 
-**Project Mentors** 
+**Project Co-Directors**:
 
-- Kelly McConville  
+- Kelly McConville and Gretchen Moisen  
 
 :::
 
@@ -223,7 +239,6 @@ The success of UFDS comes from the amazing people involved — helpful project m
 ::: {.g-col-8}
 **Student Researchers**
 
-- **[Pravadh Singh](https://www.linkedin.com/in/pravadh/)** (Computer Science, Mathematics '18, Swarthmore College)  
 
 - **[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** (Mathematics '18, Swarthmore College) 
 
@@ -231,13 +246,15 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 - **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** (Mathematics, Computer Science '19, Swarthmore College)  
 
-**FIA Collaborators** 
+- **[Pravadh Singh](https://www.linkedin.com/in/pravadh/)** (Computer Science, Mathematics '18, Swarthmore College)  
 
-- Tracey Frescino, Gretchen Moisen  
+**FIA Collaborator** 
 
-**Project Mentors** 
+- Tracey Frescino
 
-- Kelly McConville 
+**Project Co-Directors**:
+
+- Kelly McConville and Gretchen Moisen  
 
 :::
 :::
@@ -252,24 +269,26 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 **Student Researchers**
 
-- **[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** (Mathematics '18, Swarthmore College) 
-
-- **[Kevin Lai](https://www.linkedin.com/in/kevin-lai-772a60ba/)** (Economics, Mathematics '18, Swarthmore College)  
-
-- **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** (Mathematics, Computer Science '19, Swarthmore College)  
 - **[Leon Chen](https://www.linkedin.com/in/leon-chen/)** (Computer Science, Mathematics with Emphasis in Statistics '18, Swarthmore College)
 
-- **[Sida (Mick) Li](https://www.linkedin.com/in/mick-sida-li-b057417a/)** (Mathematics, Philosophy '18, Swarthmore College)
+- **[Shirley Cheung](https://www.linkedin.com/in/scheung88/)** (Mathematics '18, Swarthmore College) 
 
 - **[Jacob Gichan](https://www.linkedin.com/in/jacob-g-8660514a/)** (Mathematics, Classical Studies '18, Swarthmore College)
 
-**FIA Collaborators** 
+- **[Kevin Lai](https://www.linkedin.com/in/kevin-lai-772a60ba/)** (Economics, Mathematics '18, Swarthmore College)  
 
-- Tracey Frescino, Gretchen Moisen  
+- **[Sida (Mick) Li](https://www.linkedin.com/in/mick-sida-li-b057417a/)** (Mathematics, Philosophy '18, Swarthmore College)
 
-**Project Mentors** 
+- **[Lan Anh Ngo Quy](https://www.linkedin.com/in/lan-ngo/)** (Mathematics, Computer Science '19, Swarthmore College)  
 
-- Kelly McConville  
+
+**FIA Collaborator** 
+
+- Tracey Frescino
+
+**Project Co-Directors**:
+
+- Kelly McConville and Gretchen Moisen  
 
 :::
 :::
@@ -288,13 +307,13 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 - **[George Zhu](https://www.linkedin.com/in/george-x-zhu/)** (Mathematics, Philosophy '17, Swarthmore College)
 
-**FIA Collaborators** 
+**FIA Collaborator** 
 
-- Tracey Frescino, Gretchen Moisen  
+- Tracey Frescino
 
-**Project Mentors** 
+**Project Co-Directors**:
 
-- Kelly McConville 
+- Kelly McConville and Gretchen Moisen   
 
 :::
 :::
@@ -313,50 +332,48 @@ The success of UFDS comes from the amazing people involved — helpful project m
 
 - **[Cooper Schumacher](https://www.linkedin.com/in/cooperschumacher/)** (Mathematics '14, Whitman College) 
 
-**FIA Collaborators** 
+**FIA Collaborator** 
 
-- Tracey Frescino, Gretchen Moisen  
+- Tracey Frescino
 
-**Project Mentors** 
+**Project Co-Directors**:
 
-- Kelly McConville  
+- Kelly McConville and Gretchen Moisen 
 
 :::
 :::
 
 ## FIA Collaborators and Other Mentors
 
-- **[George Gaines](https://www.linkedin.com/in/george-gaines-7b34a711b/)** (Research Mathematical Statistician, FIA). Summer 2022 - present.
-
-- **Tracey Frescino** (Forester, FIA). Fall 2013 - present.
-
-- **[Andy Lister](https://www.linkedin.com/in/andrew-lister-9b64a36/)** (Research Forester, FIA). Summer 2025. 
 
 - **[Brett Butler](https://www.linkedin.com/in/bbutler01/)** (Research Forester, FIA). Summer 2023.
 
 - **[Jesse Caputo](https://www.linkedin.com/in/jesse-caputo-600129b/)** (Research Forester, FIA). Summer 2023. 
 
+- **[Ray Czaplewski](https://www.linkedin.com/in/rayczaplewski/)** (Retired FIA Scientist). Summer 2022. 
+
+- **Tracey Frescino** (Forester, FIA). Fall 2013 - present.
+
+- **[Andy Lister](https://www.linkedin.com/in/andrew-lister-9b64a36/)** (Research Forester, FIA). Summer 2025. 
+
 - **[Sara Goeking](https://www.linkedin.com/in/sara-goeking-967712aa/)** (FIA National Program Manager, FIA). Summer 2022 and 2023.   
 
 - **[Kate Hu](http://www.katehu.com/)** (Assistant Professor of Statistics, Ohio State University). Summer 2022 and 2023.
 
-- **[Chris Woodall](https://www.linkedin.com/in/chwoodall/)**  (Director of U.S. Forest Science and Policy, CTrees). Summer 2022. 
+- **[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** (Retired FIA Research Forester, Skier, Foiling Surfer). Fall 2013 - 2022. 
 
 - **[Holly	Munro](https://www.linkedin.com/in/holly-munro-747400149/)** (Senior Research Scientist, NCASI). Summer 2022.
 
-- **[Steve	Prisley](https://www.linkedin.com/in/steve-prisley-8a769a13/)** (Consultant, Formerly Principal Research Scientist, NCASI). Summer 2022. 
-
 - **[Lara Murray](https://www.linkedin.com/in/lara-thelle-murray/)** (Principal Owner, Seris Forest Analytics). Summer 2022.
 
-- **[Ray Czaplewski](https://www.linkedin.com/in/rayczaplewski/)** (Retired FIA Scientist). Summer 2022.  
-
-- **[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** (Retired FIA Research Forester, Skier, Foiling Surfer). Fall 2013 - 2022.  
+- **[Steve	Prisley](https://www.linkedin.com/in/steve-prisley-8a769a13/)** (Consultant, Formerly Principal Research Scientist, NCASI). Summer 2022.  
 
 - **[Chris Toney](https://github.com/ctoney)** (Biological Scientist, FIA). Summer 2019 - 2020.   
 
+- **[Chris Woodall](https://www.linkedin.com/in/chwoodall/)**  (Director of U.S. Forest Science and Policy, CTrees). Summer 2022. 
 
 
-## Co-directors
+## Co-Directors
 
 :::: {.columns}
 
