@@ -4,14 +4,14 @@
     "href": "devStorage_hidden.html",
     "title": "Devlog",
     "section": "",
-    "text": "Fix/clean up css\nImprove grid system/custom layout\nDevelop landing page layout vs other page layouts\nFix TOC display\nBetter implement scss\nDevelop site theme\nIcons?\nButtons?\n\n\n\n\npalette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # What is Quarto?"
+    "text": "Fix/clean up css\nImprove grid system/custom layout\nDevelop landing page layout vs other page layouts\nFix TOC display\nBetter implement scss\nDevelop site theme\nIcons?\nButtons?\n\n\n\n\npalette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # {{&lt; fa circle-question &gt;}} What is Quarto?"
   },
   {
     "objectID": "devStorage_hidden.html#color-palette",
     "href": "devStorage_hidden.html#color-palette",
     "title": "Devlog",
     "section": "",
-    "text": "palette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # What is Quarto?"
+    "text": "palette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # {{&lt; fa circle-question &gt;}} What is Quarto?"
   },
   {
     "objectID": "devStorage_hidden.html#awesome-quarto",
