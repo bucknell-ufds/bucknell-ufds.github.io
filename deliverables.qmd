@@ -1,0 +1,30 @@
+---
+title: "Deliverables"
+page-layout: full
+title-block-style: none
+toc: false
+validate-yaml: false
+filters:
+  - multibib
+csl: apa-by-year.csl
+bibliography:
+  publications: pubs.bib
+  software: software.bib
+nocite: |
+  @*
+---
+
+At UFDS we strive for a variety of types of deliverables that benefit the FIA Program and our students: from software to peer-reviewed publications to dashboards and more. On this page, we showcase some of our deliverables.
+
+## Publications
+
+::: {#refs-publications}
+:::
+
+
+## Software
+
+::: {#refs-software}
+:::
+
+

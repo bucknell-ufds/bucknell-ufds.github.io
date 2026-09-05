@@ -10,6 +10,45 @@ The success of UFDS comes from the amazing people involved — helpful collabora
 ## Student Research Groups
 
 
+### Reed Summer 2026
+
+::: {.grid .research-group}
+
+::: {.g-col-8}
+**Student Researchers**
+
+- **[Brendan Fingal](https://www.linkedin.com/in/brendan-fingal-9a698a359/)** (Mathematics with a Concentration in Statistics '28, Reed College)
+
+- **[Leland Russell](https://leland-russell.github.io/)** (Mathematics with a Concentration in Statistics '27, Reed College)
+
+- **[Samantha Schroeder](https://www.linkedin.com/in/sam-grace-schroeder/)** (Electrical and Electronics Engineering '29, Bucknell University)
+
+- **[Christian West-McCauley](https://www.linkedin.com/in/christian-west-mccauley-b6a5a6290/)** (Geography '27, Bucknell University)
+
+- **[Yanchen (Wystan) Wu](https://www.linkedin.com/in/yanchenwu819/)** (Mathematics with a Concentration in Statistics '27, Reed College)
+
+
+**FIA Collaborators**  
+
+- Kristen Pelz and Gretchen Moisen
+
+
+**Project Co-Directors**:
+
+
+- George Gaines, Kelly McConville, and Grayson White  
+
+:::
+
+::: {.g-col-4}
+![](images/UFDS2026.jpeg){}
+:::
+
+:::
+
+---
+
+
 ### Bucknell Summer 2025
 
 ::: {.grid .research-group}
@@ -359,6 +398,8 @@ The success of UFDS comes from the amazing people involved — helpful collabora
 - **[Sara Goeking](https://www.linkedin.com/in/sara-goeking-967712aa/)** (FIA National Program Manager, FIA). Summer 2022 and 2023.   
 
 - **[Kate Hu](http://www.katehu.com/)** (Assistant Professor of Statistics, Ohio State University). Summer 2022 and 2023.
+
+- **[Kristen Pelz](https://research.fs.usda.gov/about/people/kristen.pelz)** (RMRS FIA Program Manager). Summer 2026. 
 
 - **[Gretchen	Moisen](https://www.fs.usda.gov/inside-fs/delivering-mission/excel/studying-small-areas-solve-big-problems-gretchen-moisen-40-years)** (Retired FIA Research Forester, Skier, Foiling Surfer). Fall 2013 - 2022. 
 

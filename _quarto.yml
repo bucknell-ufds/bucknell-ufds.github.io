@@ -17,11 +17,17 @@ website:
         href: index.qmd
       - text: "People"
         href: people.qmd
+      - text: "Deliverables"
+        href: deliverables.qmd
+      - text: "FAQs"
+        href: faq.qmd
+      - text: "Tree Art"
+        href: tree_art.qmd
       # - text: "Showcase Projects"
       #   href: previousProjects.qmd
-      - text: "Apply Here!"
-        href: application.qmd
-    search: true
+      # - text: "Apply Here!"
+      #   href: application.qmd
+    search: false
     
   sidebar:
     style: "floating"  # or "docked"

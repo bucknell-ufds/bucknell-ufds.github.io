@@ -1,0 +1,11 @@
+---
+title: "Tree Art!"
+page-layout: full
+title-block-style: none
+toc: false
+---
+
+During the summer of 2022, one of our research students, [Jing Shang](https://profiles.stanford.edu/jing-shang), created an artistic rendering of every team member’s favorite tree.
+
+
+![](images/Jing's tree art.png){width=75% fig-align='center'}
