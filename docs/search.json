@@ -1,82 +1,5 @@
 [
   {
-    "objectID": "devStorage_hidden.html",
-    "href": "devStorage_hidden.html",
-    "title": "Devlog",
-    "section": "",
-    "text": "Fix/clean up css\nImprove grid system/custom layout\nDevelop landing page layout vs other page layouts\nFix TOC display\nBetter implement scss\nDevelop site theme\nIcons?\nButtons?\n\n\n\n\npalette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # {{&lt; fa circle-question &gt;}} What is Quarto?"
-  },
-  {
-    "objectID": "devStorage_hidden.html#color-palette",
-    "href": "devStorage_hidden.html#color-palette",
-    "title": "Devlog",
-    "section": "",
-    "text": "palette &lt;- c(\"#95B46A\", \"#2C8C99\", \"#26408B\", \"#563F1B\", \"#243119\", \"#FCD757\", \"#BA5A31\",\"#E06324\", \"#F7EFA6\")\n\n\nhttps://ucsb-meds.github.io/creating-quarto-websites/#create-website-scaffolding\n\n|| Other yaml stuff\nFontawesome: https://fontawesome.com/icons\nfontawesome: true\nIcons: # {{&lt; fa circle-question &gt;}} What is Quarto?"
-  },
-  {
-    "objectID": "devStorage_hidden.html#awesome-quarto",
-    "href": "devStorage_hidden.html#awesome-quarto",
-    "title": "Devlog",
-    "section": "Awesome Quarto:",
-    "text": "Awesome Quarto:\nhttps://github.com/mcanouil/awesome-quarto"
-  },
-  {
-    "objectID": "devStorage_hidden.html#openscapes",
-    "href": "devStorage_hidden.html#openscapes",
-    "title": "Devlog",
-    "section": "Openscapes",
-    "text": "Openscapes\nhttps://openscapes.org/"
-  },
-  {
-    "objectID": "devStorage_hidden.html#columns",
-    "href": "devStorage_hidden.html#columns",
-    "title": "Devlog",
-    "section": "Columns",
-    "text": "Columns\n\n\n\n\nCOlumn 1\nLorem Ipsum I don’t remember the rest\n\n\n\n\n\nColumn 2\nLorem Ipsum. I don’t want to look them up\n\n\n\n\n\nColumn 3\nLorem Ipsum What if I memorized them"
-  },
-  {
-    "objectID": "devStorage_hidden.html#bordered-boxes",
-    "href": "devStorage_hidden.html#bordered-boxes",
-    "title": "Devlog",
-    "section": "Bordered Boxes",
-    "text": "Bordered Boxes"
-  },
-  {
-    "objectID": "devStorage_hidden.html#section",
-    "href": "devStorage_hidden.html#section",
-    "title": "Devlog",
-    "section": "151",
-    "text": "151\nBox 1 Lorem"
-  },
-  {
-    "objectID": "devStorage_hidden.html#section-1",
-    "href": "devStorage_hidden.html#section-1",
-    "title": "Devlog",
-    "section": "80",
-    "text": "80\nBox 2 Ipsum"
-  },
-  {
-    "objectID": "devStorage_hidden.html#section-2",
-    "href": "devStorage_hidden.html#section-2",
-    "title": "Devlog",
-    "section": "22",
-    "text": "22\nBox 3 I think the next word is dolor?"
-  },
-  {
-    "objectID": "devStorage_hidden.html#sections-css",
-    "href": "devStorage_hidden.html#sections-css",
-    "title": "Devlog",
-    "section": "Sections & CSS",
-    "text": "Sections & CSS\nIn QMD:"
-  },
-  {
-    "objectID": "devStorage_hidden.html#sections-colors-css-in-styles.css-file",
-    "href": "devStorage_hidden.html#sections-colors-css-in-styles.css-file",
-    "title": "Devlog",
-    "section": "Sections colors (css) [in styles.css file]",
-    "text": "Sections colors (css) [in styles.css file]\n.white-section { background-color: #ffffff; padding: 3rem 0; }\n.grey-section { background-color: #f5f5f5; /* light grey */ padding: 3rem 0; }"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -131,13 +54,6 @@
     "title": "Deliverables",
     "section": "Software",
     "text": "Software\n\n\nRussell, L., Wu, W., White, G., McConville, K., & Gaines, G. (2026). Basal: Bayesian small area estimation library. https://github.com/ufds-lab/basal\n\n\nYamamoto, J., Elsyad, D., White, G., Schmitt, J., Korsgaard, N., McConville, K., & Hu, K. (2024). Saeczi: Small area estimation for continuous zero inflated data. https://doi.org/10.32614/CRAN.package.saeczi\n\n\nMcConville, K., Yamamoto, J., Tang, B., Zhu, G., White, G., Cheung, S., Li, S., & Toth, D. (2018). Mase: Model-assisted survey estimation. https://cran.r-project.org/package=mase"
-  },
-  {
-    "objectID": "previousProjects.html",
-    "href": "previousProjects.html",
-    "title": "Previous Projects",
-    "section": "",
-    "text": "Coming Soon!"
   },
   {
     "objectID": "application.html",

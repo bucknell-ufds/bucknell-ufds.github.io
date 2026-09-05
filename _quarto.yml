@@ -23,8 +23,6 @@ website:
         href: faq.qmd
       - text: "Tree Art"
         href: tree_art.qmd
-      # - text: "Showcase Projects"
-      #   href: previousProjects.qmd
       # - text: "Apply Here!"
       #   href: application.qmd
     search: false

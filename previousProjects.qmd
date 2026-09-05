@@ -1,9 +1,0 @@
----
-title: "Previous Projects"
-title-block-style: none
----
-
-
-# Coming Soon!
-
-
