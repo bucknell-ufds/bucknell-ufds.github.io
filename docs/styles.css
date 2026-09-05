@@ -28,3 +28,22 @@ div {
   }
 }
 
+/* Style the publications/software bibliographies like a bulleted list,
+   matching the spacing and indentation of the Student Awards list */
+#refs-publications.hanging-indent,
+#refs-software.hanging-indent {
+  margin-left: 0;
+  padding-left: 2rem;
+  text-indent: 0;
+}
+
+#refs-publications.hanging-indent div.csl-entry,
+#refs-software.hanging-indent div.csl-entry {
+  display: list-item;
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-left: 0;
+  text-indent: 0;
+  margin-bottom: 1em;
+}
+
