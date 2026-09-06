@@ -20,7 +20,12 @@ Here’s a rough timeline of the summer research process:
 knitr::include_graphics("images/ufds_timeline.png")
 ```
 
+In addition to the activities listed in the research timeline, we also give presentations about our work and eat ice cream!
 
+::: {layout-ncol=2}
+![](images/psae2025.jpg){width=45%} 
 
+![](images/Forest_and_IceCream_Lovers.jpg){width=45%}
+:::
 
 
