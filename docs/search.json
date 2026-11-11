@@ -53,7 +53,7 @@
     "href": "deliverables.html#software",
     "title": "Deliverables",
     "section": "Software",
-    "text": "Software\n\n\nRussell, L., Wu, W., White, G., McConville, K., & Gaines, G. (2026). Basal: Bayesian small area estimation library. https://github.com/ufds-lab/basal\n\n\nYamamoto, J., Elsyad, D., White, G., Schmitt, J., Korsgaard, N., McConville, K., & Hu, K. (2024). Saeczi: Small area estimation for continuous zero inflated data. https://doi.org/10.32614/CRAN.package.saeczi\n\n\nMcConville, K., Yamamoto, J., Tang, B., Zhu, G., White, G., Cheung, S., Li, S., & Toth, D. (2018). Mase: Model-assisted survey estimation. https://cran.r-project.org/package=mase"
+    "text": "Software\n\n\nRussell, L., Wu, Y., White, G., McConville, K., & Gaines, G. (2026). Basal: Bayesian small area estimation library. https://github.com/ufds-lab/basal\n\n\nWhite, G. W., Wieczorek, J. A., Russell, L., Schroeder, S., Frescino, T. S., & McConville, K. S. (2026). Kbaabb: Generates an artificial population based on the KBAABB methodology. https://doi.org/10.32614/CRAN.package.kbaabb\n\n\nYamamoto, J., Elsyad, D., White, G., Schmitt, J., Korsgaard, N., McConville, K., & Hu, K. (2024). Saeczi: Small area estimation for continuous zero inflated data. https://doi.org/10.32614/CRAN.package.saeczi\n\n\nMcConville, K., Yamamoto, J., Tang, B., Zhu, G., White, G., Cheung, S., Li, S., & Toth, D. (2018). Mase: Model-assisted survey estimation. https://cran.r-project.org/package=mase"
   },
   {
     "objectID": "deliverables.html#student-awards",
